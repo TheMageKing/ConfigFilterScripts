@@ -3,3 +3,6 @@
 	filemode = true
 	bare = false
 	logallrefupdates = true
+[submodule "filter-scripts"]
+	url = git@github.com:TheMageKing/ConfigFilterScripts.git
+	active = true
